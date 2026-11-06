@@ -1,0 +1,50 @@
+# AI Core
+ollama
+langchain
+langgraph
+langchain-community
+langchain-ollama
+
+# Memory
+supabase
+pgvector
+sentence-transformers
+
+# Voice
+groq
+edge-tts
+pvporcupine
+sounddevice
+pyaudio
+
+# PC Control
+pyautogui
+psutil
+pygetwindow
+keyboard
+screen-brightness-control
+
+# Web
+duckduckgo-search
+requests
+beautifulsoup4
+feedparser
+
+# Files
+pandas
+openpyxl
+pypdf2
+python-docx
+watchdog
+
+# Backend
+fastapi
+uvicorn
+websockets
+pyngrok
+supabase
+
+# Utils
+gitpython
+autopep8
+python-dotenv
